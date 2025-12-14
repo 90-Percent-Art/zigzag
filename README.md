@@ -1,2 +1,2 @@
 # zigzag
-Another
+Another art script
